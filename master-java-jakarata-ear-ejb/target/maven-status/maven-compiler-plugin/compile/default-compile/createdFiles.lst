@@ -1,0 +1,6 @@
+es\davidrico\jakarta\ear\ejb\repositorios\UsuarioRepository.class
+es\davidrico\jakarta\ear\ejb\servicios\UsuarioService.class
+es\davidrico\jakarta\ear\ejb\servicios\UsuarioServiceImpl.class
+es\davidrico\jakarta\ear\ejb\ProducerResources.class
+es\davidrico\jakarta\ear\ejb\repositorios\UsuarioRepositoryImpl.class
+es\davidrico\jakarta\ear\ejb\entities\Usuario.class
